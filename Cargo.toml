@@ -1,0 +1,15 @@
+[package]
+name = "ManagerX"
+version = "0.1.0"
+edition = "2021"
+authors = ["Bahadır Doğan"]
+
+[dependencies]
+
+eframe = { version = "0.24.1" }
+egui = { version = "0.24.1", features = ["accesskit"] }
+sysinfo = "0.29.10"
+egui_plot = "0.24.1"
+winapi = { version = "0.3", features = ["shellapi", "winuser", "wingdi"] }
+image = "0.24.7"
+winit = "0.28"
