@@ -14,6 +14,10 @@ System Monitor, Rust ve egui kullanarak CPU, bellek, ağ kullanımı gibi sistem
 
 🚀 Kurulum ve Çalıştırma
 
+📷 Ekran Görüntüleri
+
+![Ekran görüntüsü 2025-01-31 143323](https://github.com/user-attachments/assets/cb6356e2-0d51-453c-b31c-7a260a262c69)
+
 Bağımlılıklar
 
 Rust ve Cargo yüklü olmalıdır. Eğer yüklü değilse, aşağıdaki komut ile yükleyebilirsin:
